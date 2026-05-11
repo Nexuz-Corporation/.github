@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/282259605" width="90" style="border-radius:50%;border:3px solid #6c63ff;"/>
+<img src="https://i.ibb.co/356YF7BQ/Nexuz-Corporation.png" width="90" style="border-radius:50%;border:3px solid #6c63ff;"/>
 
 <br/><br/>
 
